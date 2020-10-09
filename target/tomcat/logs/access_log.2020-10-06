@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:00:38:22 -0400] "GET /form HTTP/1.1" 200 949 http-bio-8080-exec-1 2296
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:00:38:22 -0400] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8080-exec-3 8
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:00:38:29 -0400] "POST /createStudent HTTP/1.1" 200 217 http-bio-8080-exec-4 744
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:00:40:11 -0400] "GET /form HTTP/1.1" 200 949 http-bio-8080-exec-2 412
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:00:41:48 -0400] "GET /form HTTP/1.1" 200 949 http-bio-8080-exec-2 496
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:00:41:54 -0400] "POST /createStudent HTTP/1.1" 200 227 http-bio-8080-exec-3 107
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:00:56:36 -0400] "GET /form HTTP/1.1" 500 7720 http-bio-8080-exec-2 2232
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:01:46:45 -0400] "GET /form HTTP/1.1" 200 949 http-bio-8080-exec-2 445
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:01:46:49 -0400] "POST /createStudent HTTP/1.1" 400 968 http-bio-8080-exec-4 165
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:01:47:33 -0400] "POST /createStudent HTTP/1.1" 200 229 http-bio-8080-exec-8 81
